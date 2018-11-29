@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1490063325 source:c:\users\fabio\desktop\trabalho aeds\ordenadordepalavras\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"ordenador.h"
+
+1490058712 c:\users\fabio\desktop\trabalho aeds\ordenadordepalavras\ordenador.h
+	<time.h>
+
+1489803009 source:c:\users\fabio\desktop\trabalho aeds\ordenadordepalavras\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ordenador.h"
+
+1489087505 c:\users\fabio\desktop\trabalho aeds\ordenadordepalavras\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ordenador.h"
+
+1489787898 source:c:\users\santos\desktop\trabalho aeds\ordenadordepalavras\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ordenador.h"
+
+1489788359 c:\users\santos\desktop\trabalho aeds\ordenadordepalavras\ordenador.h
+
+1489274618 source:c:\users\santos\desktop\trabalho aeds\ordenadordepalavras\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ordenador.h"
+
+1490063414 source:c:\users\fabio\onedrive\documentos\ufop\aplicações\c\ordenadordepalavras\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"ordenador.h"
+
+1490058712 c:\users\fabio\onedrive\documentos\ufop\aplicações\c\ordenadordepalavras\ordenador.h
+	<time.h>
+
+1489803009 source:c:\users\fabio\onedrive\documentos\ufop\aplicações\c\ordenadordepalavras\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ordenador.h"
+
